@@ -11,7 +11,7 @@ Here in this project i will configure a Hot Standby Router Protocol (HSRP) archi
 7. DHCP (For Public-AP Only)
 8. Custom Website & DNS Service
 
-![network design](/hsrp.PNG)
+![network design](/hsrpv2.PNG)
 
 ## How to Run
 Install [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer) and then simply open the [HSRP.pkt](https://github.com/weixiong15/Network_Fundamental_HSRP/blob/master/HSRP.pkt). The whole network is in working condition. You can check it by sending a packet from one system to another or through using the PING command in the Cisco Packet Tracer.
