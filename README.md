@@ -14,7 +14,7 @@ Here in this project i will configure a Hot Standby Router Protocol (HSRP) archi
 ![network design](/hsrp.png)
 
 ## How to Run
-Install [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer) and then simply open the [HSRP.pkt](https://github.com/weixiong15/Network_Fundamental_HSRPv2-With-OSPF-/blob/main/HSRPv2.pkt). The whole network is in working condition. You can check it by sending a packet from one system to another or through using the PING command in the Cisco Packet Tracer.
+Install [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer) and then simply open the [HSRPv2.pkt](https://github.com/weixiong15/Network_Fundamental_HSRPv2-With-OSPF-/blob/main/HSRPv2.pkt). The whole network is in working condition. You can check it by sending a packet from one system to another or through using the PING command in the Cisco Packet Tracer.
 **All Router and Switch passwords: cisco**
 
 This solution works for version 6.2 or above of Cisco Packet Tracer.
