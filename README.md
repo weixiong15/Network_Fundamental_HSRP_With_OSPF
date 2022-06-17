@@ -1,4 +1,4 @@
-# Network Fundamental Hot Standby Router Protocol (HSRP) Set Up With OSPF - Part 2 (Cisco Packet Tracer - For study purpose only)
+# Network Fundamental Hot Standby Router Protocol (HSRP) Set Up With OSPF (Cisco Packet Tracer - For study purpose only)
 Here in this project i will configure a Hot Standby Router Protocol (HSRP) architecture with OSPF Routing. These designs can be expanded to create very complex architectures depending on the network requirements.
 
 ## Configuration List
